@@ -1,6 +1,7 @@
 /**
  * Discount
  */
+ /**test**/
  const orders = [
    {id: 2340, customer: 101, product: 20, timestamp: "1591243565", price: "12.00"},
    {id: 2341, customer: 10, product: 12, timestamp: "1591603575", price: "32.50"},
